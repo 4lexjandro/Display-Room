@@ -4,6 +4,7 @@ import Contact from './Routes/Contact'
 import Notfound from './Routes/Notfound'
 import Shop from './Routes/Shop'
 import Bar from './Parts/Bar'
+import './App.scss'
 
 function App() {
   return (
@@ -26,6 +27,11 @@ function App() {
    </Router>
    <div className="bottom"> 
    {/* Footer will go here */}
+
+
+
+
+   
       </div>
 
    

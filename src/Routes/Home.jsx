@@ -2,7 +2,14 @@ import React from 'react'
 
 function Home() {
   return (
-    <div>Home</div>
+    <div className="Home">
+      
+
+      
+      <h1 className="red">Home page should be one color</h1>
+      
+      
+      </div>
   )
 }
 
