@@ -22,7 +22,6 @@ function Contact() {
     <div> 
       
     <div className="Contact">
-  
       <div className="body">
 
      
@@ -40,14 +39,17 @@ function Contact() {
      <div class="toppo"></div>
      <div class="left-fold"></div>
    </div>
-   <div class="shadow"></div>
+   <div class="shadow">Email</div>
  </div>
+
  </div>
 </div>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <h1 class="text">Or</h1>
 <br/><br/><br/><br/><br/>
+
+
 
 <div class="iphone-x">
   <i>Speaker</i>
@@ -56,7 +58,14 @@ function Contact() {
   
   <span>Left action button</span>
   <span>Right action button</span>
+  
+  <div class="shadow">Call</div>
+  
 </div>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+
+
 
 
 

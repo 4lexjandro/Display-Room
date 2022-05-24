@@ -147,6 +147,7 @@ body {
   left: 50%;
   width: 400px;
   height: 30px;
+  color: white;
   transition: .4s;
   transform: translateX(-50%);
   -webkit-transition: .4s;
@@ -463,4 +464,22 @@ body {
 
 
     
+  }
+
+
+  .iphone-x .shadow {
+    position: absolute;
+    top: 850px;
+    left: 50%;
+    width: 400px;
+    height: 30px;
+    transition: .4s;
+    transform: translateX(-50%);
+    -webkit-transition: .4s;
+    -webkit-transform: translateX(-50%);
+    -moz-transition: .4s;
+    -moz-transform: translateX(-50%);
+    
+    border-radius: 100%;
+    background: radial-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.0), rgba(0,0,0,0.0));
   }
