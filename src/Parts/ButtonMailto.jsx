@@ -2,7 +2,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-const ButtonMailto = ({ mailto, label }) => {
+const ButtonMailto = ({ mailto, text }) => {
     return (
         <Link
             className="email"
@@ -12,7 +12,7 @@ const ButtonMailto = ({ mailto, label }) => {
                 e.preventDefault();
             }}
         >
-            {label}
+            {text}
         </Link>
     );
 };

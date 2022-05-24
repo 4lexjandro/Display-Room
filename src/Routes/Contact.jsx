@@ -29,7 +29,7 @@ function Contact() {
      <div class="back-fold"></div>
      <div class="letter">
        <div class="letter-border"></div>
-       <ButtonMailto label="Say Hello" mailto="mailto:alexjandrom99@gmail.com"/>
+       <ButtonMailto text="Say Hello" mailto="mailto:alexjandrom99@gmail.com"/>
        <div class="letter-stamp">
          <div class="letter-stamp-inner"></div>
        </div>
@@ -42,6 +42,7 @@ function Contact() {
  </div>
  </div>
 </div>
+
 
        </div>
       

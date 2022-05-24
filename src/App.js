@@ -4,7 +4,9 @@ import Contact from './Routes/Contact'
 import Notfound from './Routes/Notfound'
 import Shop from './Routes/Shop'
 import Bar from './Parts/Bar'
+import Footer from './Parts/Footer'
 import './App.scss'
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
@@ -30,7 +32,11 @@ function App() {
 
 
 
-
+   <div className="bottom"> 
+   
+   <Footer />
+   
+   </div>
    
       </div>
 
