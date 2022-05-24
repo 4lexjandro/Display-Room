@@ -1,5 +1,5 @@
 import React from 'react'
-import styled from "styled-components";
+import Card from '../Visuals/Card.png'
 
 
 import ButtonMailto from '../Parts/ButtonMailto'
@@ -20,7 +20,9 @@ function Contact() {
 
   return (
     <div> 
+      
     <div className="Contact">
+  
       <div className="body">
 
      
@@ -42,6 +44,22 @@ function Contact() {
  </div>
  </div>
 </div>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<h1 class="text">Or</h1>
+<br/><br/><br/><br/><br/>
+
+<div class="iphone-x">
+  <i>Speaker</i>
+  <b>Camera</b>
+  <s>10:24</s>
+  
+  <span>Left action button</span>
+  <span>Right action button</span>
+</div>
+
+
+
 
 
        </div>
